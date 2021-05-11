@@ -12,10 +12,10 @@ url = 'https://www.insightoftheday.com'
 
 r = requests.get(url)
 content = BeautifulSoup(r.content,'html5lib')
-f = open("demofile3.txt", "w")
+f = open("demofile3.html", "w")
 f.write(content.prettify())
 f.close()
-f = 	open("demofile3.txt", "r")
+f = 	open("demofile3.html", "r")
 print(f.read())
 
 run_git = os.system("git add *")
