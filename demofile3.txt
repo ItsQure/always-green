@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="thVctRSo8ZoHgUDsUexoaXZuDX1Hz9SZS0HGz0Ac" name="csrf-token"/>
+  <title>
+   Daily Quote Of The Day - Motivational &amp; Inspirational Quotes - Home Page
+  </title>
+  <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet"/>
+  <link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" rel="stylesheet"/>
+  <link href="https://www.insightoftheday.com/css/app.css" rel="stylesheet"/>
+  <link href="https://www.insightoftheday.com/css/main.css" rel="stylesheet"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-53804416-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-53804416-1');
+  </script>
+ </head>
+ <body>
+  <div id="top-float-banner">
+   <div class="container">
+    <div class="row">
+     <div class="col-md-8">
+      <h3 style="text-align: right!important;">
+       5-DAY FORMULA FOR FINANCIAL FREEDOM |
+       <b>
+        FREE LIVE TRAINING
+       </b>
+      </h3>
+     </div>
+     <div class="col-md-4">
+      <a class="btn btn-primary bp5-btn" href="https://www.proctorgallagherinstitute.com/5-days-to-financial-freedom?utm_source=website&amp;utm_medium=banner&amp;utm_campaign=IOTD_5Days_FF" target="_blank">
+       Register Now
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="main-nav">
+   <div class="container">
+    <div class="row">
+     <div class="col-md-3 home-link">
+      <a href="/">
+       <img class="logo" src="https://www.insightoftheday.com/imgs/IOTDlogo.png"/>
+      </a>
+      <a aria-expanded="false" class="navbar-toggle collapsed hamburger-nav" data-target="#mobile-navbar-collapse" data-toggle="collapse">
+       <i class="fa fa-bars">
+       </i>
+      </a>
+     </div>
+     <div class="col-md-9">
+      <div class="navbar">
+       <div class="navbar-inner navbar-collapse desktop-nav mobile-nav" id="mobile-navbar-collapse">
+        <ul class="nav">
+         <li class="nav-item">
+          <a class="nav-link" href="/">
+           Daily Quotes
+          </a>
+         </li>
+         <li class="nav-item">
+          <a class="nav-link" href="/category/motivational-quotes/">
+           Motivational Quotes
+          </a>
+         </li>
+         <li class="nav-item">
+          <a class="nav-link" href="/category/inspirational-quotes/">
+           Inspirational Quotes
+          </a>
+         </li>
+         <li class="nav-item">
+          <a class="nav-link" href="/category/life-quotes/">
+           Life Quotes
+          </a>
+         </li>
+         <li class="nav-item search">
+          <i class="fa fa-search search-btn">
+          </i>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="iotd-header">
+   <div class="container">
+    <div class="row">
+     <div class="col-md-8">
+      <img src="https://www.insightoftheday.com/imgs/iotd-white-logo-home.png" style="max-width: 100%;"/>
+     </div>
+     <div class="col-md-4">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="email-sub">
+   <div class="container">
+    <div class="row">
+     <div class="col-md-12 email-form">
+      <p>
+       Receive daily insight and inspiration right in your inbox for
+       <b>
+        FREE
+       </b>
+       .
+      </p>
+      <form _lpchecked="1" action="https://go.pardot.com/l/45802/2015-01-25/2s433" class="form-inline" role="form" style="text-align: center;">
+       <div class="form-group-holder">
+        <div class="form-group">
+         <input class="form-control" name="First Name" placeholder="First Name" required="" type="text"/>
+        </div>
+        <div class="form-group">
+         <input class="form-control" name="Last Name" placeholder="Last Name" required="" type="text"/>
+        </div>
+        <div class="form-group">
+         <input class="form-control" name="Email" placeholder="Email" required="" type="text"/>
+        </div>
+        <div class="form-group" style="font-weight:300; text-align: center;">
+         <button class="btn btn-primary email-btn" type="submit">
+          Subscribe
+         </button>
+        </div>
+       </div>
+      </form>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="event-banner">
+   <div class="container">
+    <div class="ps-banner">
+     <a href="https://www.proctorgallagherinstitute.com/go/sgr?utm_source=IOTD&amp;utm_medium=banner&amp;utm_campaign=SGR_Webinar_Banner" target="_blank">
+      <img src="https://www.insightoftheday.com/imgs/sgrwebinar_HorizontalAd.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="container">
+   <div class="daily-post-info">
+    <h5>
+     SCROLL TO SEE THE DAILY QUOTE BELOW
+    </h5>
+    <div class="scroll-triangle">
+     <img src="https://www.insightoftheday.com/imgs/scroll-triangle.png"/>
+    </div>
+    <div class="post-info-text">
+     <p>
+      It’s amazing how an uplifting quote or inspirational story can completely change your day, and sometimes your life. One quote that touches your heart or reminds you of your dreams can inspire steps that would otherwise remain untaken and stir new perspectives on life and possibilities.
+     </p>
+     <p>
+      Insight of the Day was created to spread inspiration through something small, on a large scale. Though there are a ton of different ‘quote websites’, on this page you’ll always find a wealth of inspiring, motivating and insightful quotes – thoughtfully chosen with you and your dreams in mind.
+     </p>
+     <p>
+      You can also subscribe for Insight of the Day to receive an uplifting quote every day of the week and an inspirational story on Friday right in your inbox.
+     </p>
+    </div>
+   </div>
+   <div class="daily-post">
+    <h1>
+     Quote of the Day
+    </h1>
+    <hr/>
+    <h2 class="entry-title">
+     Motivational Quote by Gina Milicia
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-gina-milicia-05-11-2021">
+      <p>
+       <img alt=" motivational quote: Take risks: If you win, you will be happy; if you lose, you will be wise.    Gina Milicia - Photographer-Author" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2417.jpg"/>
+      </p>
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="container">
+   <div class="posts">
+    <h1>
+     Daily Quotes
+    </h1>
+    <hr/>
+    <h2 class="entry-title">
+     Motivational Quote by Gina Milicia
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-gina-milicia-05-11-2021">
+      <p>
+       <img alt=" motivational quote: Take risks: If you win, you will be happy; if you lose, you will be wise.    Gina Milicia - Photographer-Author" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2417.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Biggs Burke
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-biggs-burke-05-10-2021">
+      <p>
+       <img alt=" motivational quote: A wise man said: Don't be afraid to start over again. This time, you're not starting from scratch, you're starting from experience.&lt;/p&gt;&lt;p&gt;Biggs Burke - Entrepreneur-Record Executive-Film Producer" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2416.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Earl Simmons
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-earl-simmons-05-09-2021">
+      <p>
+       <img alt=" motivational quote: We each have a star, all we have to do is find it.  Once you do, everyone who sees it will be blinded.&lt;/p&gt;&lt;p&gt;Earl Simmons - 1970-2021 - Rapper-Songwriter-Actor" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2415.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Aeschylus
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-aeschylus-05-08-2021">
+      <p>
+       <img alt=" motivational quote: Happiness is a choice that requires effort at times.&lt;/p&gt;&lt;p&gt;Aeschylus - 525-455 BC - Ancient Greek Author" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2414.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Unknown
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-unknown-05-07-2021">
+      <p>
+       <img alt=" motivational quote: After making a true decision, especially the tough ones, we usually feel a tremendous burden has been lifted from our shoulders.    Unknown" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2413.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Brene Brown
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-brene-brown-05-06-2021">
+      <p>
+       <img alt=" motivational quote: One day you will tell your story of how you overcame what you went through and it will be someone else's survival guide.&lt;/p&gt;&lt;p&gt;Brene Brown - American Researcher" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2412.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Glennon Doyle
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-glennon-doyle-05-05-2021">
+      <p>
+       <img alt=" motivational quote: Sometimes bravery is simply choosing to take the next step without fully knowing the path.    Glennon Doyle - American Author" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2411.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by John Geiger
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-john-geiger-05-04-2021">
+      <p>
+       <img alt=" motivational quote: A beautiful day begins with a beautiful mindset.    John Geiger - Designer-Entrepreneur" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2410.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Dean Graziosi
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-dean-graziosi-05-03-2021">
+      <p>
+       <img alt=" motivational quote: Consistency is harder when no one is clapping for you. You must clap for yourself during those times, you should always be your biggest fan.    Dean Graziosi - American Investor" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2409.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Albert Einstein
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-albert-einstein-05-02-2021">
+      <p>
+       <img alt=" motivational quote: Everything is energy and that's all there is to it. Match the frequency of the reality you want, and you cannot help but get that reality, it can be no other way. This is not philosophy, this is physics.    Albert Einstein - 1879-1955 - Theoretical Physicist" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2408.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by William James
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-william-james-05-01-2021">
+      <p>
+       <img alt=" motivational quote: The greatest weapon against stress is our ability to choose one thought over another.    William James - 1842-1910 - American Philosopher" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2407.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Craig Groeschel
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-craig-groeschel-04-30-2021">
+      <p>
+       <img alt=" motivational quote: The decisions you make today will determine the stories you tell tomorrow.    Craig Groeschel - Pastor" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2406.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Leo Buscaglia
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-leo-buscaglia-04-29-2021">
+      <p>
+       <img alt=" motivational quote: Only the weak are cruel. Gentleness can only be expected from the strong. &lt;/p&gt;&lt;p&gt;Leo Buscaglia – 1924-1998, Speaker and Author" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2405.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Benjamin Disraeli
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-benjamin-disraeli-04-28-2021">
+      <p>
+       <img alt=" motivational quote: The greatest good you can do for another is not just share your riches, but to reveal to him his own.    &lt;/p&gt;&lt;p&gt;Benjamin Disraeli – 1804-1881, Prime Minister of the United Kingdom" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2404.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Jean De La Fontaine
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-jean-de-la-fontaine-04-27-2021">
+      <p>
+       <img alt=" motivational quote: Man is so made that when anything fires his soul, impossibilities vanish.      Jean De La Fontaine – 1621-1695, French Poet" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2403.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote Paul Boese
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-paul-boese-04-26-2021">
+      <p>
+       <img alt=" motivational quote: Forgiveness does not change the past, but it does enlarge the future.     Paul Boese – 1923-1976, Businessman and Writer" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2402.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Robert Kennedy
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-robert-kennedy-04-25-2021">
+      <p>
+       <img alt=" motivational quote: Too often we enjoy the comfort of opinion without the discomfort of thought. &lt;/p&gt;&lt;p&gt;Robert Kennedy – 1925-1968, Politician and Lawyer" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2401.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by James Thurber
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-james-thurber-04-24-2021">
+      <p>
+       <img alt=" motivational quote: Let us not look back in anger, nor forward in fear, but around us in awareness.&lt;/p&gt;&lt;p&gt;James Thurber – 1894-1961, Cartoonist and Author" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2400.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Miles Munroe
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-miles-munroe-04-23-2021">
+      <p>
+       <img alt=" motivational quote: The picture that we have of ourselves -will always determine how we respond to life.&lt;/p&gt;&lt;p&gt;Miles Munroe – 1954-2014, Minister" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2399.jpg"/>
+      </p>
+     </a>
+    </div>
+    <h2 class="entry-title">
+     Motivational Quote by Viktor Frankl
+    </h2>
+    <div class="quote">
+     <a href="motivational-quote-by-viktor-frankl-04-22-2021">
+      <p>
+       <img alt=" motivational quote: Life is never made unbearable by circumstances, but only by lack of meaning and purpose.&lt;/p&gt;&lt;p&gt;Viktor Frankl – 1905-1997, Psychiatrist and Author" class="img-responsive rounded" src="https://d2kmupq6z275fj.cloudfront.net/quote-2398.jpg"/>
+      </p>
+     </a>
+    </div>
+    <div class="pagination-holder">
+     <ul class="pagination">
+      <li class="disabled">
+       <span>
+        «
+       </span>
+      </li>
+      <li class="active">
+       <span>
+        1
+       </span>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=2">
+        2
+       </a>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=3">
+        3
+       </a>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=4">
+        4
+       </a>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=5">
+        5
+       </a>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=6">
+        6
+       </a>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=7">
+        7
+       </a>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=8">
+        8
+       </a>
+      </li>
+      <li class="disabled">
+       <span>
+        ...
+       </span>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=120">
+        120
+       </a>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=121">
+        121
+       </a>
+      </li>
+      <li>
+       <a href="https://www.insightoftheday.com?page=2" rel="next">
+        »
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <div class="footer">
+   <div class="container">
+    <a href="http://proctorgallagherinstitute.com">
+     <img src="https://www.insightoftheday.com/imgs/proctor-gallagher-institute-logo-footer.png"/>
+    </a>
+    <p class="copyright">
+     2021 Copyright Proctor Gallagher Institute. All Rights Reserved.
+    </p>
+   </div>
+  </div>
+  <div class="off" id="qnimate">
+   <div class="open" id="search">
+    <button class="close" data-widget="remove" id="hideSearch" type="button">
+     ×
+    </button>
+    <div class="search-logo">
+     <img src="https://www.insightoftheday.com/imgs/logoisotd.png"/>
+    </div>
+    <form action="https://www.insightoftheday.com/search" autocomplete="off" method="GET">
+     <input id="q" name="q" placeholder="Enter a Search Query" type="text" value=""/>
+     <div class="search-terms">
+      <ul>
+       <li>
+        <input checked="" id="keyword-filter" name="f" type="radio" value="keyword"/>
+        <label for="keyword-filter">
+         Keyword
+        </label>
+        <div class="check">
+        </div>
+       </li>
+       <li>
+        <input id="author-filter" name="f" type="radio" value="author"/>
+        <label for="author-filter">
+         Author
+        </label>
+        <div class="check">
+        </div>
+       </li>
+       <li>
+        <input id="category-filter" name="f" type="radio" value="category"/>
+        <label for="category-filter">
+         Category
+        </label>
+        <div class="check">
+        </div>
+       </li>
+      </ul>
+     </div>
+     <button class="btn btn-lg btn-site" type="submit">
+      SEARCH
+     </button>
+    </form>
+   </div>
+  </div>
+  <script src="https://www.insightoftheday.com/js/app.js">
+  </script>
+  <script src="https://www.insightoftheday.com/js/main.js">
+  </script>
+ </body>
+</html>
