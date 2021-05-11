@@ -4,7 +4,7 @@
   <meta charset="utf-8"/>
   <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
-  <meta content="HBbSE60r96VQM8LEDJiD97WIkYpgGIrJSpQSFpsL" name="csrf-token"/>
+  <meta content="wLxbLLm9QDrRu9YXj8e2lgZQoNMThpmxR4p5UuAV" name="csrf-token"/>
   <title>
    Daily Quote Of The Day - Motivational &amp; Inspirational Quotes - Home Page
   </title>
