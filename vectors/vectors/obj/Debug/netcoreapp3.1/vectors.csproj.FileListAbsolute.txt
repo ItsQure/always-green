@@ -1,0 +1,12 @@
+/Users/noh/Desktop/always-green/vectors/vectors/bin/Debug/netcoreapp3.1/vectors.deps.json
+/Users/noh/Desktop/always-green/vectors/vectors/bin/Debug/netcoreapp3.1/vectors.runtimeconfig.json
+/Users/noh/Desktop/always-green/vectors/vectors/bin/Debug/netcoreapp3.1/vectors.runtimeconfig.dev.json
+/Users/noh/Desktop/always-green/vectors/vectors/bin/Debug/netcoreapp3.1/vectors.dll
+/Users/noh/Desktop/always-green/vectors/vectors/bin/Debug/netcoreapp3.1/vectors.pdb
+/Users/noh/Desktop/always-green/vectors/vectors/obj/Debug/netcoreapp3.1/vectors.csprojAssemblyReference.cache
+/Users/noh/Desktop/always-green/vectors/vectors/obj/Debug/netcoreapp3.1/vectors.AssemblyInfoInputs.cache
+/Users/noh/Desktop/always-green/vectors/vectors/obj/Debug/netcoreapp3.1/vectors.AssemblyInfo.cs
+/Users/noh/Desktop/always-green/vectors/vectors/obj/Debug/netcoreapp3.1/vectors.csproj.CoreCompileInputs.cache
+/Users/noh/Desktop/always-green/vectors/vectors/obj/Debug/netcoreapp3.1/vectors.dll
+/Users/noh/Desktop/always-green/vectors/vectors/obj/Debug/netcoreapp3.1/vectors.pdb
+/Users/noh/Desktop/always-green/vectors/vectors/obj/Debug/netcoreapp3.1/vectors.genruntimeconfig.cache
